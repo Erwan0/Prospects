@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mes Prospects</string>
+    <string name="title">Mes prospects</string>
+    <string name="name">Nom d’utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="checkBox">Se souvenir de moi</string>
+    <string name="empty">Vider</string>
+    <string name="connection">Connexion</string>
+    <string name="inputPassword">Mot de passe</string>
+    <string name="inputName">Nom d’utilisateur</string>
+    <string name="error">Champs invalide</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">私の見通し</string>
+    <string name="title">私の見通し</string>
+    <string name="name">ユーザー名</string>
+    <string name="password">パスワード</string>
+    <string name="checkBox">私を覚えてますか</string>
+    <string name="empty">空の</string>
+    <string name="connection">ログイン</string>
+    <string name="inputName">ユーザー名</string>
+    <string name="inputPassword">パスワード</string>
+    <string name="error">無効なフィールド</string>
+</resources>

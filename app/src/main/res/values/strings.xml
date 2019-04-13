@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Prospects</string>
+    <string name="title">My Prospects</string>
+    <string name="name">Username</string>
+    <string name="password">Password</string>
+    <string name="checkBox">Remember me</string>
+    <string name="empty">Empty</string>
+    <string name="connection">Login</string>
+    <string name="inputName">Username</string>
+    <string name="inputPassword">Password</string>
+    <string name="error">Invalid fields</string>
+</resources>
